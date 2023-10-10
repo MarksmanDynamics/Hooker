@@ -69,6 +69,11 @@ Hooker _will_ be updated until perfected!
  Copy the user ID of the desired user and paste it with brackets like this <@userID> and hit enter.
 </details>
 <details>
+<summary>Sending Discord emojis</summary>
+<br>
+ Sending emojis works the same as on discord, type the emojis name in-between semicolons. :thumbsup:
+</details>
+<details>
 <summary>Mentioning a channel</summary>
 <br>
  To mention a channel copy the channel ID of the desired channel and paste it with brackets like this <#channelID> and hit enter.
