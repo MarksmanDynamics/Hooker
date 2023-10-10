@@ -6,6 +6,7 @@ Hooker does not require Discord to function for the time being, although this ma
 
 Hooker _will_ be updated until perfected!
 
+
 > [!NOTE]
 > Please note that this is currently an early version of Hooker so there will be bugs.
 
