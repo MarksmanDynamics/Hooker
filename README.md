@@ -34,18 +34,25 @@ To send an image you must copy the image's URL address, paste it into the text f
 Simply paste the link into the text field and hit enter. If the link contains any embeds they will automatically show, but be aware you won't be able to delete them if you don't have the permissions necessary.
 </details>
 <details>
-<summary>Mentions</summary>
-  
-    + To mention everyone
-       + Type @everyone and hit enter.
-       
-    + To mention a specific role
-       + Copy the [role ID](https://www.quora.com/How-do-I-get-a-role-ID-discord) of the desired role and paste it with brackets like this **<@roleID>** and hit enter.
-       
-    + To mention a specific user
-       + Copy the [user ID](https://www.businessinsider.com/guides/tech/discord-id?r=US&IR=T#:~:text=To%20find%20a%20user%27s%20Discord,sidebar%20and%20select%20Copy%20ID.) of the desired user and paste it with brackets like this **<@userID>** and hit enter.
-       
-    + To mention a channel copy the [channel ID](https://turbofuture.com/internet/Discord-Channel-ID) of the desired channel and paste it with brackets like this **<#channelID>** and hit enter.
+<summary>Mentioning everyone</summary>
+<br>
+Type @everyone and hit enter.
+</details>
+<details>
+<summary>Mention a role</summary>
+<br>
+Copy the [role ID](https://www.quora.com/How-do-I-get-a-role-ID-discord) of the desired role and paste it with brackets like this **<@roleID>** and hit enter.
+</details>
+<details>
+<summary>Mentioning a user</summary>
+<br>
+Copy the [user ID](https://www.businessinsider.com/guides/tech/discord-id?r=US&IR=T#:~:text=To%20find%20a%20user%27s%20Discord,sidebar%20and%20select%20Copy%20ID.) of the desired user and paste it with brackets like this **<@userID>** and hit enter.
+</details>
+<details>
+<summary>Mentioning a channel</summary>
+<br>
+To mention a channel copy the [channel ID](https://turbofuture.com/internet/Discord-Channel-ID) of the desired channel and paste it with brackets like this **<#channelID>** and hit enter.
+Type @everyone and hit enter.
 </details>
 
 # Plans for the future
