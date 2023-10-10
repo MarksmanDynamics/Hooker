@@ -1,18 +1,21 @@
 # Hooker
-A simple tool developed for sending messages through discord webhook bots.
+A simple and easy to use tool developed for sending messages through discord webhook bots.
 You don't need discord installed to use this tool, the messages will still go through.
 
 ![image](https://github.com/MarksmanDynamics/Hooker/assets/138945158/409feedf-d6fb-4a8e-9ba5-f93e2c5c0e2c)
+
 ![image](https://github.com/MarksmanDynamics/Hooker/assets/138945158/45f80856-ae56-427b-a488-9fa62795ef31)
 
 ## Installation (Windows)
 
 * Download the files
 * Create discord webhook
-* Go to your server settings/Integrations/Webhooks/Create webook/Copy webhook URL
+ - Go to your server settings/Integrations/Webhooks/Create webook/Copy webhook URL
   - More in-depth explanation [here](https://docs.gitlab.com/ee/user/project/integrations/discord_notifications.html)
 * Paste the webhook url from discord into Hooker
 * Done! You can now send messages to the webhook
+
+  (To clear the message history go to hooker/appbag/ edit conversation.bat, delete everything inside and save it.)
 
 ### Disclaimers
 
