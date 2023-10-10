@@ -87,7 +87,7 @@ Hooker _will_ be updated until perfected!
 
 > [!IMPORTANT]
 > **This code will _not_ recognize if your webhook is invalid**, so make sure you double check if you encounter any issues.
->   this issue will be patched in later updates
+>   This issue will be patched in later updates
 
 Slight visual artifacts may appear, altering the UI. These usually should not interact with the code at all,
 so if you see something off you should be able to continue using Hooker just fine.
