@@ -16,9 +16,20 @@ You don't need discord installed to use this tool, the messages will still go th
 
   (To clear the message history go to hooker/appbag/ edit conversation.bat, delete everything inside and save it.)
 
+### Things to add/patch
+
+- [ ] Automate clearing logs
+- [ ] Proper error handling
+- [ ] Input validation
+- [ ] Test OS compatibility
+- [ ] improve compatibility with different OS'
+
 ### Disclaimers
 
 **This code will _not_ recognize if your webhook is invalid**, so make sure you double check if you encounter any issues.
+  - this issue will be patched in later updates
+
+Please note that this is currently an early version of Hooker so there will be bugs.
 
 Slight visual artifacts may appear, altering the UI. These usually should not interact with the code at all,
 so if you see something off you should be able to continue using Hooker just fine.
