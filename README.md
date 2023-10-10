@@ -81,7 +81,7 @@ Hooker _will_ be updated until perfected!
 <details>
 <summary>Sending gifs</summary>
 <br>
- A gif embed can be sent by pasting a [Tenor](https://tenor.com) gif link into the text field and hitting enter.
+ A gif embed can be sent by pasting a gif link from https://tenor.com into the text field and hitting enter.
 </details>
 <details>
 <summary>Clearing the logs</summary>
