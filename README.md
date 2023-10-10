@@ -22,7 +22,8 @@ You don't need discord installed to use this tool, the messages will still go th
 - [ ] Proper error handling
 - [ ] Input validation
 - [ ] Test OS compatibility
-- [ ] improve compatibility with different OS'
+- [ ] Improve compatibility with different OS'
+- [ ] Add a way for Hooker to retrieve info from the webhook using the discord API
 
 ### Disclaimers
 
