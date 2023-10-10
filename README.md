@@ -27,6 +27,20 @@ Hooker _will_ be updated until perfected!
 6. Paste the webhook url from discord into Hooker and hit enter
 7. Done! You can now send messages through the webhook
 
+## Installation (Linux)
+
+1. Install curl
+  - Instructions [here](https://linuxhint.com/curl-command-linux/#:~:text=Install%20Curl,is%20a%20simple%20installation%20method.)
+2. Install wine
+  - Instructions [here](https://wiki.winehq.org/Download)
+3. ```git clone https://github.com/MarksmanDynamics/Hooker /home/Hooker```
+4. Create discord webhook
+  - Go to your discord server settings/Integrations/Webhooks/Create webook/Copy webhook URL
+    - More in-depth explanation [here](https://docs.gitlab.com/ee/user/project/integrations/discord_notifications.html)
+5. Run hooker.bat with "Wine Windows Program Loader"
+6. Paste the webhook url from discord into Hooker and hit enter
+7. Done! You can now send messages through the webhook
+
 ## Usage
 <details>
 <summary>Sending images</summary>
@@ -95,7 +109,7 @@ so if you see something off you should be able to continue using Hooker just fin
 In the case that the artifacts are really bad/annoying, you can simply restart the window and it should fix them.
 
 This code is fully programmed in batch and it is made to be handled with Windows.
-Other OS' might require extra steps to run the code.
+Other OS' might require extra steps to run the code and may experience more bugs.
 
 ### Contact
 **Email**: marksmandynamics@gmail.com
