@@ -79,6 +79,11 @@ Hooker _will_ be updated until perfected!
  To mention a channel copy the channel ID of the desired channel and paste it with brackets like this <#channelID> and hit enter.
 </details>
 <details>
+<summary>Sending gifs</summary>
+<br>
+ A gif embed can be sent by pasting a [Tenor](https://tenor.com) gif link into the text field and hitting enter.
+</details>
+<details>
 <summary>Clearing the logs</summary>
 <br>
  To clear the logs simply type msgclear an hit enter.
