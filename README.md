@@ -10,8 +10,8 @@ You don't need discord installed to use this tool, the messages will still go th
 
 * Download the files
 * Create discord webhook
- - Go to your server settings/Integrations/Webhooks/Create webook/Copy webhook URL
-  - More in-depth explanation [here](https://docs.gitlab.com/ee/user/project/integrations/discord_notifications.html)
+  - Go to your server settings/Integrations/Webhooks/Create webook/Copy webhook URL
+    - More in-depth explanation [here](https://docs.gitlab.com/ee/user/project/integrations/discord_notifications.html)
 * Paste the webhook url from discord into Hooker
 * Done! You can now send messages to the webhook
 
@@ -19,7 +19,7 @@ You don't need discord installed to use this tool, the messages will still go th
 
 ### Disclaimers
 
-This code will not recognize if your webhook is invalid, so make sure you double check if you encounter any issues.
+**This code will _not_ recognize if your webhook is invalid**, so make sure you double check if you encounter any issues.
 
 Slight visual artifacts may appear, altering the UI. These usually should not interact with the code at all,
 so if you see something off you should be able to continue using Hooker just fine.
