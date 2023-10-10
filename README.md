@@ -18,7 +18,7 @@ Hooker _will_ be updated until perfected!
 
 1. Download the files
 2. Install curl
-  - Instructions [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi1y86E6-uBAxWnVfEDHezWARYQFnoECA0QAw&url=https%3A%2F%2Fdeveloper.zendesk.com%2Fdocumentation%2Fapi-basics%2Fgetting-started%2Finstalling-and-using-curl%2F%23%3A~%3Atext%3DWorking%2520with%2520JSON.-%2CUsing%2520curl%2520in%2520Windows%2Cinstall%2520it%2520on%2520your%2520system.&usg=AOvVaw1-wjMW0ueqpAwiMPKQHmE5&opi=89978449)
+  - Instructions [here]([https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi1y86E6-uBAxWnVfEDHezWARYQFnoECA0QAw&url=https%3A%2F%2Fdeveloper.zendesk.com%2Fdocumentation%2Fapi-basics%2Fgetting-started%2Finstalling-and-using-curl%2F%23%3A~%3Atext%3DWorking%2520with%2520JSON.-%2CUsing%2520curl%2520in%2520Windows%2Cinstall%2520it%2520on%2520your%2520system.&usg=AOvVaw1-wjMW0ueqpAwiMPKQHmE5&opi=89978449](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi1y86E6-uBAxWnVfEDHezWARYQFnoECBAQAw&url=http%3A%2F%2Fkb.naverisk.com%2Fen%2Farticles%2F5569958-how-to-install-curl-in-windows&usg=AOvVaw1FbJ2d0f26wSYQ1QFMqz4t&opi=89978449))
 4. Create discord webhook
   - Go to your discord server settings/Integrations/Webhooks/Create webook/Copy webhook URL
     - More in-depth explanation [here](https://docs.gitlab.com/ee/user/project/integrations/discord_notifications.html)
