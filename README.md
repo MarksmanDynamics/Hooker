@@ -72,6 +72,7 @@ Hooker _will_ be updated until perfected!
 - [x] Automate clearing logs
 - [x] Implement proper error handling
 - [x] Implement input validation
+- [ ] Add a command that allows changing the webhook without having to restart Hooker
 - [ ] Stabilise the CLI environment
 - [ ] Test OS compatibility
 - [ ] Improve compatibility with different OS'
