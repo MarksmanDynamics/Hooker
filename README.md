@@ -46,7 +46,6 @@ Simply paste the link into the text field and hit enter. If the link contains an
        + Copy the [user ID](https://www.businessinsider.com/guides/tech/discord-id?r=US&IR=T#:~:text=To%20find%20a%20user%27s%20Discord,sidebar%20and%20select%20Copy%20ID.) of the desired user and paste it with brackets like this **<@userID>** and hit enter.
        
     + To mention a channel copy the [channel ID](https://turbofuture.com/internet/Discord-Channel-ID) of the desired channel and paste it with brackets like this **<#channelID>** and hit enter.
-
 </details>
 
 # Plans for the future
