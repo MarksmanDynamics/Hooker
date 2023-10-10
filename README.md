@@ -87,6 +87,7 @@ Other OS' might require extra steps to run the code.
 
 ### Contact
 **Email**: marksmandynamics@gmail.com
+
 **Discord**: marksmandynamics
 
 If you encountered a bug/issue, please open an issue on the repository, they will be read!
