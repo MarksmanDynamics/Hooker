@@ -71,7 +71,7 @@ Hooker _will_ be updated until perfected!
 <details>
 <summary>Sending Discord emojis</summary>
 <br>
- Sending emojis works the same as on discord, type the emojis name in-between semicolons. :thumbsup:
+ Sending emojis works the same as on discord, type the emojis name in-between semicolons. :emojiname:
 </details>
 <details>
 <summary>Mentioning a channel</summary>
