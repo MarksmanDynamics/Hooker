@@ -23,18 +23,40 @@ Hooker _will_ be updated until perfected!
 4. Done! You can now send messages through the webhook
 
 ## Usage
-<summary>Text messages</summary>
-<details>In order to send a text message through Hooker simply type/paste the desired message and hit enter</details>
+<details>
+<summary>Sending Images</summary>
+<br>
+To send an image you must copy the image's URL address, paste it into the text field an hit enter.
+</details>
+<details>
+<summary>Sending Links</summary>
+<br>
+Simply paste the link into the text field and hit enter. If the link contains any embeds they will automatically show, but be aware you won't be able to delete them if you don't have the permissions necessary.
+</details>
+<details>
+<summary>Mentions</summary>
+  
+    + To mention everyone
+       + Type @everyone and hit enter.
+       
+    + To mention a specific role
+       + Copy the [role ID](https://www.quora.com/How-do-I-get-a-role-ID-discord) of the desired role and paste it with brackets like this **<@roleID>** and hit enter.
+       
+    + To mention a specific user
+       + Copy the [user ID](https://www.businessinsider.com/guides/tech/discord-id?r=US&IR=T#:~:text=To%20find%20a%20user%27s%20Discord,sidebar%20and%20select%20Copy%20ID.) of the desired user and paste it with brackets like this **<@userID>** and hit enter.
+       
+    + To mention a channel copy the [channel ID](https://turbofuture.com/internet/Discord-Channel-ID) of the desired channel and paste it with brackets like this **<#channelID>** and hit enter.
 
-  ~~(To clear the message history go to hooker/appbag/ edit conversation.bat, delete everything inside and save it.)~~
+</details>
 
 # Plans for the future
 
 ### Things to add/patch
 
 - [x] Automate clearing logs (publishing soon)
-- [ ] Proper error handling
-- [ ] Input validation
+- [ ] Implement proper error handling
+- [ ] Implement input validation
+- [ ] Stabilise the CLI environment
 - [ ] Test OS compatibility
 - [ ] Improve compatibility with different OS'
 
@@ -61,6 +83,8 @@ Other OS' might require extra steps to run the code.
 ### Contact
 **Email**: marksmandynamics@gmail.com
 **Discord**: marksmandynamics
+
+If you encountered a bug/issue, please open an issue on the repository, they will be read!
 
 
 
