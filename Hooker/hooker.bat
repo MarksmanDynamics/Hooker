@@ -33,14 +33,14 @@ if "!MESSAGE!"=="msgclear" (
     goto loop
 ) else (
 
-    if "!webhook!"=="" (
-        call colorchar.exe /0c " Webhook URL is empty. Please enter a valid URL."
+    if "!MESSAGE!"=="" (
+        call colorchar.exe /0c " Data not inputted. Please enter text."
         echo.
         call colorchar.exe /08 "  Press any "
         call colorchar.exe /0f "key"
         call colorchar.exe /08 " to continue ..."
         pause >nul 
-        goto gethook
+        goto loop
     )
 
     curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"!MESSAGE!\"}" %webhook% || (
@@ -64,5 +64,6 @@ echo call colorchar.exe /0b "Bot: " >> conversation.bat
 echo call colorchar.exe /0f "!MESSAGE!" >> conversation.bat
 echo echo. >> conversation.bat
 echo echo. >> conversation.bat
+set MESSAGE=
 goto loop
 pause
