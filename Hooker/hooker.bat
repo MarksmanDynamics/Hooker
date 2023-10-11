@@ -44,14 +44,13 @@ if "!MESSAGE!"=="msgclear" (
     )
 
     curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"!MESSAGE!\"}" %webhook% || (
-        call colorchar.exe /0c "Error handling message."
+        echo %DATE%, %TIME% >> errorlogs.txt
+        echo Error: %ERRORLEVEL% >> errorlogs.txt
+        echo. >> errorlogs.txt
         echo.
         call colorchar.exe /08 "  Press any "
         call colorchar.exe /0f "key"
         call colorchar.exe /08 " to continue ..."
-        echo %DATE%, %TIME%
-        echo Error: %ERRORLEVEL% >> errorlogs.txt
-        echo. >> errorlogs.txt
         pause >nul
         goto loop
     )
@@ -67,3 +66,9 @@ echo echo. >> conversation.bat
 set MESSAGE=
 goto loop
 pause
+
+
+:error0
+call colorchar.exe /0f "%ERRORLEVEL%
+:errorneq0
+call colorchar.exe /04 "%ERRORLEVEL%
