@@ -45,7 +45,7 @@ if "!MESSAGE!"=="msgclear" (
 
     curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"!MESSAGE!\"}" %webhook% || (
         echo %DATE%, %TIME% >> errorlogs.txt
-        echo Error: %ERRORLEVEL% >> errorlogs.txt
+        echo Error: !ERRORLEVEL! >> errorlogs.txt
         echo. >> errorlogs.txt
         echo.
         call colorchar.exe /08 "  Press any "
@@ -68,7 +68,4 @@ goto loop
 pause
 
 
-:error0
-call colorchar.exe /0f "%ERRORLEVEL%
-:errorneq0
-call colorchar.exe /04 "%ERRORLEVEL%
+
