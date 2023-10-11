@@ -10,8 +10,6 @@ Hooker does not require Discord to function for the time being, although this ma
 Hooker _will_ be updated until perfected!
 
 
-> [!NOTE]
-> Please note that this is currently an early version of Hooker so there will be bugs.
 
 ![image](https://github.com/MarksmanDynamics/Hooker/assets/138945158/409feedf-d6fb-4a8e-9ba5-f93e2c5c0e2c)
 
@@ -112,6 +110,9 @@ Hooker _will_ be updated until perfected!
 * Add ways for Hooker to retrieve information from Discord webhooks
 
 ## Disclaimers
+
+> [!NOTE]
+> Please note that this is currently an early version of Hooker so there will be bugs.
 
 Slight visual artifacts may appear, altering the UI. These usually should not interact with the code at all,
 so if you see something off you should be able to continue using Hooker just fine.
