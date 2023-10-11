@@ -1,6 +1,6 @@
 # Hooker
 
->[IMPORTANT!]
+>[IMPORTANT]
 >Hooker currently has an issue with saving error logs, this is currently being fixed.
 
 Hooker is an open source [CLI](https://en.wikipedia.org/wiki/Command-line_interface) tool made to simplify sending data to Discord [webhooks](https://en.wikipedia.org/wiki/Webhook) using [cURL](https://en.wikipedia.org/wiki/CURL). 
