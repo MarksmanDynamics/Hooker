@@ -1,5 +1,8 @@
 # Hooker
 
+>[IMPORTANT!]
+>Hooker currently has an issue with saving error logs, this is currently being fixed.
+
 Hooker is an open source [CLI](https://en.wikipedia.org/wiki/Command-line_interface) tool made to simplify sending data to Discord [webhooks](https://en.wikipedia.org/wiki/Webhook) using [cURL](https://en.wikipedia.org/wiki/CURL). 
 Hooker has a simple, intuitive and user-friendly interface and the ability not to only send messages but also images, gifs and other content embedded in URL links.
 Hooker does not require Discord to function for the time being, although this may change in the future. (In which case there will always be a discord-independent version still available) 
