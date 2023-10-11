@@ -118,7 +118,7 @@ This code is fully programmed in batch and it is made to be handled with Windows
 Other OS' might require extra steps to run the code and may experience more bugs.
 
 ### Contact
-**Email**: marksmandynamics@gmail.com
+**Email**: msmn@dnmx.org
 
 **Discord**: marksmandynamics
 
