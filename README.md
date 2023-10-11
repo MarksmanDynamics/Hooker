@@ -101,7 +101,6 @@ Hooker _will_ be updated until perfected!
 
 ### Things to consider
 
-* Add ability to individually ping users
 * Simplify the ability to ping users
 * Integrate Hooker with the Discord API to improve functionality and stability
 * Add ways for Hooker to retrieve information from Discord webhooks
