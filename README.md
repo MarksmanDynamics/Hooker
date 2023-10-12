@@ -21,7 +21,7 @@ Hooker _will_ be updated until perfected!
 4. Create discord webhook
   - Go to your discord server settings/Integrations/Webhooks/Create webook/Copy webhook URL
     - More in-depth explanation [here](https://docs.gitlab.com/ee/user/project/integrations/discord_notifications.html)
-5. Run hooker.bat
+5. After acquiring the webhook URL run hooker.bat
 6. Paste the webhook url from discord into Hooker and hit enter
 7. Done! You can now send messages through the webhook
 
@@ -35,7 +35,7 @@ Hooker _will_ be updated until perfected!
 4. Create discord webhook
   - Go to your discord server settings/Integrations/Webhooks/Create webook/Copy webhook URL
     - More in-depth explanation [here](https://docs.gitlab.com/ee/user/project/integrations/discord_notifications.html)
-5. Run hooker.bat with "Wine Windows Program Loader"
+5. After acquiring the webhook URL run hooker.bat with "Wine Windows Program Loader"
 6. Paste the webhook url from discord into Hooker and hit enter
 7. Done! You can now send messages through the webhook
 
