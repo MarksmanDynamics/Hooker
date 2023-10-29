@@ -108,7 +108,7 @@ Hooker _will_ be updated until perfected!
 ## Disclaimers
 
 > [!NOTE]
-> Please note that this is currently an early version of Hooker so there will be bugs.
+> Hooker is currently not receiving updates due to temporary technical difficulties. Be back soon!
 
 Slight visual artifacts may appear, altering the UI. These usually should not interact with the code at all,
 so if you see something off you should be able to continue using Hooker just fine.
