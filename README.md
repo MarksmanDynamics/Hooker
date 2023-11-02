@@ -4,7 +4,7 @@ Hooker is an open source [CLI](https://en.wikipedia.org/wiki/Command-line_interf
 Hooker has a simple, intuitive and user-friendly interface and the ability not to only send messages but also images, gifs and other content embedded in URL links.
 Hooker does not require Discord to function for the time being, although this may change in the future. (In which case there will always be a discord-independent version still available) 
 
-Hooker _will_ be updated until perfected!
+Feedback is very welcome!
 
 
 
