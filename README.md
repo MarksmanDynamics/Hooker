@@ -14,7 +14,7 @@ Feedback is very welcome!
 
 ## Installation (Windows)
 
-1. Install curl
+1. Install curl (should be installed by default on most Windows devices)
   - Instructions [here](http://kb.naverisk.com/en/articles/5569958-how-to-install-curl-in-windows)
 2. Download the files
 3. Extract the files
