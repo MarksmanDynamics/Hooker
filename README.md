@@ -108,7 +108,7 @@ Feedback is very welcome!
 ## Disclaimers
 
 > [!NOTE]
-> Hooker is currently not receiving updates due to temporary technical difficulties. Be back soon!
+> As of December 2025, Hooker will no longer receive regular updates moving forward. Please contact me on Discord if you have any questions!
 
 Slight visual artifacts may appear, altering the UI. These usually should not interact with the code at all,
 so if you see something off you should be able to continue using Hooker just fine.
