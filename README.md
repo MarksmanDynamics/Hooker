@@ -118,9 +118,9 @@ This code is fully programmed in batch and it is made to be handled with Windows
 Other OS' might require extra steps to run the code and may experience more bugs.
 
 ### Contact
-**Email**: msmn@dnmx.org
+**Email**: have9nine@gmail.com
 
-**Discord**: marksmandynamics
+**Discord**: have7, have9
 
 If you encountered a bug/issue, please open an issue on the repository, they will be read!
 
